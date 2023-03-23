@@ -11,6 +11,8 @@ This museum contains details about :
 
 ## Ancient Software
 - [Amiga OS](https://en.wikipedia.org/wiki/AmigaOS)
+
+
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/AmigaOS_4.1_Update_2.png/300px-AmigaOS_4.1_Update_2.png)
 AmigaOS is a family of proprietary native operating systems of the Amiga and AmigaOne personal computers. It was developed first by Commodore International and introduced with the launch of the first Amiga, the Amiga 1000, in 1985. Early versions of AmigaOS required the Motorola 68000 series of 16-bit and 32-bit microprocessors. Later versions were developed by Haage & Partner (AmigaOS 3.5 and 3.9) and then Hyperion Entertainment (AmigaOS 4.0-4.1). A PowerPC microprocessor is required for the most recent release, AmigaOS 4.
 
@@ -23,12 +25,16 @@ The Amiga intellectual property is fragmented between Amiga Inc., Cloanto, and H
 On December 29, 2015, the AmigaOS 3.1 source code leaked to the web; this was confirmed by the licensee, Hyperion Entertainment.
 
 - [MS DOS](https://en.wikipedia.org/wiki/DOS)
+
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ms-dosdir.png/440px-Ms-dosdir.png)
 DOS (/dɒs/, /dɔːs/) is a platform-independent acronym for "disk operating system" that later became a common shorthand for disk-based operating systems on IBM PC compatibles. DOS primarily consists of Microsoft's MS-DOS and a rebranded version under the name IBM PC DOS, both of which were introduced in 1981. Later compatible systems from other manufacturers include DR DOS (1988), ROM-DOS (1989), PTS-DOS (1993), and FreeDOS (1998). MS-DOS dominated the IBM PC compatible market between 1981 and 1995.
 
 Dozens of other operating systems also use the acronym "DOS", beginning with the mainframe DOS/360 from 1966. Others include Apple DOS, Apple ProDOS, Atari DOS, Commodore DOS, TRSDOS, and AmigaDOS.
 
 - [OS/2](https://en.wikipedia.org/wiki/OS/2)
+
+
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Os2W4.png/330px-Os2W4.png)
 OS/2 (Operating System/2) is a series of computer operating systems, initially created by Microsoft and IBM under the leadership of IBM software designer Ed Iacobucci. As a result of a feud between the two companies over how to position OS/2 relative to Microsoft's new Windows 3.1 operating environment, the two companies severed the relationship in 1992 and OS/2 development fell to IBM exclusively. The name stands for "Operating System/2", because it was introduced as part of the same generation change release as IBM's "Personal System/2 (PS/2)" line of second-generation personal computers. The first version of OS/2 was released in December 1987 and newer versions were released until December 2001.
 
@@ -37,6 +43,8 @@ OS/2 was intended as a protected-mode successor of PC DOS. Notably, basic system
 IBM discontinued its support for OS/2 on 31 December 2006. Since then, OS/2 has been developed, supported and sold by two different third-party vendors under license from IBM – first by Serenity Systems as eComStation since 2001, and later by Arca Noae LLC as ArcaOS since 2017.
 
 - [RISC OS](https://en.wikipedia.org/wiki/RISC_OS)
+
+
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/3/33/RISCOS_4_scr.png/300px-RISCOS_4_scr.png)
 RISC OS /rɪsk.oʊˈɛs/ is a computer operating system originally designed by Acorn Computers Ltd in Cambridge, England. First released in 1987, it was designed to run on the ARM chipset, which Acorn had designed concurrently for use in its new line of Archimedes personal computers. RISC OS takes its name from the reduced instruction set computer (RISC) architecture it supports.
 
@@ -47,6 +55,8 @@ After the break-up of Acorn in 1998, development of the OS was forked and contin
 Most recent stable versions run on the ARMv3/ARMv4 RiscPC, the ARMv5 Iyonix,[6] ARMv7 Cortex-A8 processors (such as that used in the BeagleBoard and Touch Book) and Cortex-A9 processors[9] (such as that used in the PandaBoard) and the low-cost educational Raspberry Pi computer. SD card images have been released for downloading free of charge to Raspberry Pi 1, 2, 3, & 4 users with a full graphical user interface (GUI) version and a command-line interface only version (RISC OS Pico, at 3.8 MB).
 
 - [Windows 1.0](https://en.wikipedia.org/wiki/Windows_1.0x)
+
+
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Windows1.0.png/300px-Windows1.0.png)
 Windows 1.0 is the first major release of Microsoft Windows, a family of graphical operating systems for personal computers developed by Microsoft. It was first released to manufacturing in the United States on November 20, 1985, while the European version was released as Windows 1.02 in May 1986.
 
@@ -56,6 +66,8 @@ The system received lukewarm reviews; critics raised concerns about not fulfilli
 
 ## Old Software
 - [After Dark](https://en.wikipedia.org/wiki/After_Dark_(software))
+
+
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/After_Dark_Flying_Toasters.png/220px-After_Dark_Flying_Toasters.png)
 After Dark is a series of computer screensaver software introduced by Berkeley Systems in 1989 for the Apple Macintosh, and in 1991 for Microsoft Windows.
 
@@ -64,6 +76,8 @@ Following the original, additional editions included More After Dark, Before Dar
 On top of the included animated screensavers, the program allowed for the development and use of third-party modules, many hundreds of which were created at the height of its popularity.
 
 - [MacPaint](https://en.wikipedia.org/wiki/MacPaint)
+
+
   ![](https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/MacpaintWP.png/220px-MacpaintWP.png)
 MacPaint is a raster graphics editor developed by Apple Computer and released with the original Macintosh personal computer on January 24, 1984. It was sold separately for US$195 with its word processing counterpart, MacWrite. MacPaint was notable because it could generate graphics that could be used by other applications. Using the mouse, and the clipboard and QuickDraw picture language, pictures could be cut from MacPaint and pasted into MacWrite documents
 
